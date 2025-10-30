@@ -1,0 +1,3 @@
+Hello CloudEthiX from demo/merge
+Hello CloudEthiX from demo/conflicts
+
